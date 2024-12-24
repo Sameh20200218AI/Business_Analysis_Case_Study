@@ -32,7 +32,7 @@ Below is the proposed organizational structure for the optimized order fulfillme
 ## Current Workflow (As-Is)
 Below is the BPMN diagram for the current workflow of the order fulfillment process:
 
-![As-Is BPMN Diagram](path/to/as_is_bpmn.png)  
+![Current_State_BPMN_Diagram.png](https://github.com/Sameh20200218AI/Business_Analysis_Case_Study/blob/main/Current_State_BPMN_Diagram.png)  
 *Figure: Current Workflow (As-Is)*
 
 ### Workflow Steps
