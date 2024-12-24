@@ -8,7 +8,7 @@ This case study explores the optimization of the order fulfillment process for a
 ## Organizational Chart
 Below is the proposed organizational structure for the optimized order fulfillment process:
 
-![Organizational Chart](path/to/organizational_chart.png)  
+![Organizational_Chart](https://github.com/Sameh20200218AI/Business_Analysis_Case_Study/blob/main/Organizational_Chart.png)  
 *Figure: Organizational Chart*
 
 ### Executive Level
