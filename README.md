@@ -47,7 +47,7 @@ Below is the BPMN diagram for the current workflow of the order fulfillment proc
 ## Future Workflow (To-Be)
 Below is the BPMN diagram for the proposed workflow of the order fulfillment process:
 
-![To-Be BPMN Diagram](path/to/to_be_bpmn.png)  
+![uture_State_BPMN_Diagram.png](https://github.com/Sameh20200218AI/Business_Analysis_Case_Study/blob/main/Future_State_BPMN_Diagram.png)  
 *Figure: Future Workflow (To-Be)*
 
 ### Proposed Enhancements
