@@ -5,17 +5,21 @@ This case study explores the optimization of the order fulfillment process for a
 
 ---
 
-## Proposed Organizational Chart
+## Organizational Chart
+Below is the proposed organizational structure for the optimized order fulfillment process:
 
-### 1. **Executive Level**
+![Organizational Chart](path/to/organizational_chart.png)  
+*Figure: Organizational Chart*
+
+### Executive Level
 - **CEO:** Provides strategic leadership and direction.
 - **COO:** Oversees daily operations, focusing on process efficiency.
 - **CIO:** Implements and manages automation and system integration.
 
-### 2. **Operations Division**
+### Operations Division
 - **Order Fulfillment Manager:** Facilitates seamless collaboration across functional teams.
 
-### 3. **Functional Teams**
+### Functional Teams
 - **Customer Service:** Resolves customer queries and manages order discrepancies.
 - **Inventory Management:** Maintains accurate stock records and ensures product availability.
 - **Warehouse Operations:** Handles item picking, packing, and labeling.
@@ -26,6 +30,12 @@ This case study explores the optimization of the order fulfillment process for a
 ---
 
 ## Current Workflow (As-Is)
+Below is the BPMN diagram for the current workflow of the order fulfillment process:
+
+![As-Is BPMN Diagram](path/to/as_is_bpmn.png)  
+*Figure: Current Workflow (As-Is)*
+
+### Workflow Steps
 1. **Customer Service:** Verifies customer details and payment status.
 2. **Inventory Management:** Allocates stock for orders and updates inventory records.
 3. **Warehouse Operations:** Collects items, packs, and applies shipping labels.
@@ -35,6 +45,12 @@ This case study explores the optimization of the order fulfillment process for a
 ---
 
 ## Future Workflow (To-Be)
+Below is the BPMN diagram for the proposed workflow of the order fulfillment process:
+
+![To-Be BPMN Diagram](path/to/to_be_bpmn.png)  
+*Figure: Future Workflow (To-Be)*
+
+### Proposed Enhancements
 - **Automation Integration:** Reduces manual errors by automating order allocation and inventory updates.
 - **Real-Time Data Sync:** Improves transparency and communication between departments.
 - **Enhanced Collaboration Tools:** Facilitates better interaction among Customer Service, Inventory Management, and Warehouse Operations.
@@ -53,3 +69,7 @@ This case study explores the optimization of the order fulfillment process for a
 
 ## Conclusion
 This case study outlines a clear roadmap for transforming the order fulfillment process. By leveraging modern technologies and redefined workflows, the proposed solution ensures efficiency, accuracy, and customer satisfaction.
+
+---
+
+#
